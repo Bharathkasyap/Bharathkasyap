@@ -11,17 +11,33 @@
   <em>Cybersecurity Analyst | Google Certified | Intern @ Log(N) Pacific</em>
 </p>
 
+<h4>I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!</h4>
+
+
+
 <!-- Hacker GIFs Row -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZpaHc0aXNmMGt3dTB6d2RjaTQwczUzMzM0ZnRtc255bndueHJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9YYHiYjVx8FFbN4D3/giphy.gif" width="250" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R2cmdsYmd4dGZ3NTc4azBkNnI5eGsxZTU0cW40eTloeHBoa3dkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2cXRoajljbGJ0eDh0dXo5czA0cm51Y244NnF2bWhqM3k0bGg4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ugztq4GmrBRna3zaB/giphy.gif" width="250" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R2cmdsYmd4dGZ3NTc4azBkNnI5eGsxZTU0cW40eTloeHBoa3dkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250" margin-right= "70" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2cXRoajljbGJ0eDh0dXo5czA0cm51Y244NnF2bWhqM3k0bGg4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ugztq4GmrBRna3zaB/giphy.gif" width="250" height = "250" />
 </p>
 
 ---
 
 ## 🔐 What I'm Working On
 
+<h3>⚠️ Vulnerability Management Projects </h3>
+
+- **[Simple YouTube Vulnerability Management Demo with Tenable](Coming Soon)**
+- **[Vulnerability Management Program Implementation](Coming Soon)**
+- **[STIG Implementations (PowerShell)](Coming Soon)**
+
+## <h3>🚨 Threat Hunting and Security Operations </h3>
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](Coming Soon)**
+
+<hr>
+<h3>Summary from above two projects:</h3>
 - PowerShell automation for vulnerability remediation (STIG & CVE-focused)  
 - Threat detection dashboards in Microsoft Sentinel  
 - KQL queries for SOC operations  
