@@ -1,6 +1,8 @@
 <!-- Profile Header -->
 
+  <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyNW9pNmg5N241YXB0eXR2b25jOHFmbTNqZmRsM3dqemJmdWJkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" width="80" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Bharath Devulapalli</h1>
