@@ -46,7 +46,8 @@
 
 ## 🌱 Learning & Growth
 
-- CompTIA Security+ (in progress)  
+- CompTIA Security+ Certified
+- CISSP (In Progress)  
 - Incident Response playbooks  
 - Blue team techniques and SIEM tuning  
 
