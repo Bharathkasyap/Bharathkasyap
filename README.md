@@ -34,7 +34,7 @@
 
 ## <h3>🚨 Threat Hunting and Security Operations </h3>
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](Coming Soon)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Bharathkasyap/threat-hunting-scenario-tor-Bharath/tree/main)**
 
 <hr>
 <h3>Summary from above two projects:</h3>
