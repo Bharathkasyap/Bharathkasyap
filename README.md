@@ -28,9 +28,8 @@
 
 <h3>⚠️ Vulnerability Management Projects </h3>
 
-- **[Simple YouTube Vulnerability Management Demo with Tenable](Coming Soon)**
-- **[Vulnerability Management Program Implementation](Coming Soon)**
-- **[STIG Implementations (PowerShell)](Coming Soon)**
+- **[Vulnerability Management Program Implementation]
+- **[STIG Implementations (PowerShell)]
 
 ## <h3>🚨 Threat Hunting and Security Operations </h3>
 
