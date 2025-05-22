@@ -30,6 +30,7 @@
 
 - **[Vulnerability Management Program Implementation]**
 - **[STIG Implementations (PowerShell)]**
+- **Sentinel Detection Rule Packs **
 
 ## <h3>🚨 Threat Hunting and Security Operations </h3>
 
@@ -55,7 +56,6 @@
 ## 📂 Projects Coming Soon
 
 - PowerShell Scripts for Patch Automation  
-- Sentinel Detection Rule Packs  
 - My daily cyber learning notes  
 
 ---
