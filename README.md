@@ -12,8 +12,6 @@
 </p>
 
 
----
-
 ### 👨‍💻 **About Me**
 - Security+ certified, passionate about **practical defense** (SIEM, KQL, SOC playbooks, blue team automation).
 - Built and deployed: PowerShell STIG hardening, Sentinel detection rules, incident response cheat sheets.
