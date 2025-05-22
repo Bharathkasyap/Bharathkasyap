@@ -30,7 +30,7 @@
 
 - **[Vulnerability Management Program Implementation]**
 - **[STIG Implementations (PowerShell)]**
-- **Sentinel Detection Rule Packs **
+- **[Sentinel Detection Rule Packs]**
 
 ## <h3>🚨 Threat Hunting and Security Operations </h3>
 
