@@ -28,8 +28,8 @@
 
 <h3>⚠️ Vulnerability Management Projects </h3>
 
-- **[Vulnerability Management Program Implementation]
-- **[STIG Implementations (PowerShell)]
+- **[Vulnerability Management Program Implementation]**
+- **[STIG Implementations (PowerShell)]**
 
 ## <h3>🚨 Threat Hunting and Security Operations </h3>
 
