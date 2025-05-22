@@ -82,7 +82,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 [Email](mailto:bharathkasyap@gmail.com)  
+- 📧 [Email](mailto:vbdevhex0@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/venkatadevu/)  
 - 💻 [GitHub](https://github.com/Bharathkasyap)  
 
