@@ -55,7 +55,8 @@
 
 ## 📂 Projects Coming Soon
 
-- PowerShell Scripts for Patch Automation  
+- PowerShell Scripts for Patch Automation
+- Microsoft Sentinel Setup and Device Log Ingestion (📊 SIEM and Log Analysis)  
 - My daily cyber learning notes  
 
 ---
