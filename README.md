@@ -34,7 +34,7 @@
 
 <h3>⚠️ Vulnerability Management Projects </h3>
 
-- **[Vulnerability Management Program Implementation]**
+- **[Vulnerability Management Program Implementation]**(https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)
 - **[STIG Implementations (PowerShell)]**
 - **[Sentinel Detection Rule Packs]**
 
