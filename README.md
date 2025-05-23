@@ -37,11 +37,11 @@
 - **[Vulnerability Management Program Implementation](https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Bharathkasyap/programmatic-vulnerability-remediations-Bharath)**
 - **[STIG Implementations (PowerShell)]**
-- **[Sentinel Detection Rule Packs]**
 
 ## <h3>🚨 Threat Hunting and Security Operations </h3>
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Bharathkasyap/threat-hunting-scenario-tor-Bharath/tree/main)**
+- **[Sentinel Detection Rule Packs](https://github.com/Bharathkasyap/sentinel-detection-rules-Bharath/tree/main)**
 
 <hr>
 <h3>Summary from above two projects:</h3>
