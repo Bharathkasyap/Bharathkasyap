@@ -36,7 +36,6 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Bharathkasyap/programmatic-vulnerability-remediations-Bharath)**
-- **[STIG Implementations (PowerShell)]**
 
 ## <h3>🚨 Threat Hunting and Security Operations </h3>
 
@@ -62,10 +61,10 @@
 
 ## 📂 Projects Coming Soon
 
-- PowerShell Scripts for Patch Automation
-- Microsoft Sentinel Setup and Device Log Ingestion (📊 SIEM and Log Analysis)  
-- My daily cyber learning notes  
-
+- **[PowerShell Scripts for Patch Automation]** 
+- **[Microsoft Sentinel Setup and Device Log Ingestion (📊 SIEM and Log Analysis)]** 
+- **[STIG Implementations (PowerShell)]**
+  
 ---
 
 ## 🛠️ Tools & Technologies
