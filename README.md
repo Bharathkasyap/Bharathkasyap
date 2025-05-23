@@ -61,7 +61,7 @@
 
 ## 📂 Projects Coming Soon
 
-- **[PowerShell Scripts for Patch Automation]** 
+- **[PowerShell Scripts for Patch Automation](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)** 
 - **[Microsoft Sentinel Setup and Device Log Ingestion (📊 SIEM and Log Analysis)]** 
 - **[STIG Implementations (PowerShell)]**
   
