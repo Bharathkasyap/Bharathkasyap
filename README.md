@@ -55,8 +55,10 @@
 
 - 🧠 **[CTF: The Great Admin Heist](https://github.com/Bharathkasyap/The-Great-Admin-Heist-CTF/tree/main)**  
   Participated in a real-world scenario-based Capture The Flag (CTF) focused on privilege escalation, enumeration, and log analysis.  
-  Demonstrated strong analytical skills by identifying initial access vectors, misconfigured admin settings, and exploiting hidden credentials.  
-  **Tools used:** Browser-based reconnaissance, log forensics, Azure Sentinel, KQL Queries
+  Demonstrated strong analytical skills by identifying initial access vectors, misconfigured admin settings, and exploiting hidden credentials.
+  
+  **Tools used:** Browser-based reconnaissance, log forensics, Azure Sentinel, KQL Queries.
+  
   **Outcome:** Successfully captured all flags and documented each step with detailed reasoning and remediation suggestions.
 
 ---
