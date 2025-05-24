@@ -33,6 +33,7 @@
     <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2cXRoajljbGJ0eDh0dXo5czA0cm51Y244NnF2bWhqM3k0bGg4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ugztq4GmrBRna3zaB/giphy.gif" width="250" height="250"></td>
   </tr>
 </table>
+
 ---
 
 ### 💼 Featured Projects
