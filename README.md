@@ -25,7 +25,15 @@
 - 📘 **Incident Response Playbooks**: Authored step-by-step guides to reduce analyst guesswork and accelerate triage  
 
 ---
-
+<!-- Hacker GIFs Row -->
+<table>
+  <tr>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZpaHc0aXNmMGt3dTB6d2RjaTQwczUzMzM0ZnRtc255bndueHJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9YYHiYjVx8FFbN4D3/giphy.gif" width="250"></td>
+    <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R2cmdsYmd4dGZ3NTc4azBkNnI5eGsxZTU0cW40eTloeHBoa3dkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"></td>
+    <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2cXRoajljbGJ0eDh0dXo5czA0cm51Y244NnF2bWhqM3k0bGg4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ugztq4GmrBRna3zaB/giphy.gif" width="250" height="250"></td>
+  </tr>
+</table>
+---
 ### 💼 Featured Projects
 
 #### ✅ Vulnerability Management
@@ -78,12 +86,12 @@
 
 ---
 
-### 🧪 Projects Coming Soon
+## 🚀 Active Builds & Deployments
 
-- 🔄 [Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)  
-- 📊 Microsoft Sentinel Setup + Log Ingestion Guides  
-- 🔧 Advanced STIG Compliance Scripts  
-- 💡 SOC Playbooks Library with Real Case Studies  
+- 🔄**[Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)** 
+- 📊**[Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis)]** 
+- 🔧**[Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
+- 💡 SOC Playbooks Library with Real Case Studies 
 
 ---
 
@@ -97,7 +105,7 @@
 
 ### 😄 Fun Fact
 
-> I once built a full threat detection pipeline for a lab setup... then forgot to whitelist my own scanner. The alert worked — **on me**.
+> I once locked myself out of my car and instinctively thought, "There has to be a workaround… maybe brute-force?" That moment made me realize something important—whether it’s a car or a critical system, one careless slip is all it takes to trigger a denial of service. In cybersecurity and in life, access matters—and so does how you manage it.
 
 ---
 
@@ -168,7 +176,7 @@
 
 ---
 
-## 📂 Projects Coming Soon
+## 🚀 Active Builds & Deployments
 
 - **[PowerShell Scripts for Patch Automation](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)** 
 - **[Microsoft Sentinel Setup and Device Log Ingestion (📊 SIEM and Log Analysis)]** 
