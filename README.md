@@ -53,7 +53,7 @@
 
 ### 🏆 Competitions & Events
 
-- 🧠 **[CTF: The Great Admin Heist](https://github.com/Bharathkasyap/The-Great-Admin-Heist-CTF/blob/main/src/The%20Great%20Admin%20Heist-CTF%20Project.pdf)**  
+- 🧠 **[CTF: The Great Admin Heist](https://github.com/Bharathkasyap/The-Great-Admin-Heist-CTF/tree/main)**  
   Participated in a real-world scenario-based Capture The Flag (CTF) focused on privilege escalation, enumeration, and log analysis.  
   Demonstrated strong analytical skills by identifying initial access vectors, misconfigured admin settings, and exploiting hidden credentials.  
   Tools used: **Linux CLI, Wireshark, browser-based reconnaissance, log forensics**  
