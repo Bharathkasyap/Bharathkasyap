@@ -72,6 +72,15 @@
 
 ---
 
+## 🚀 Active Builds & Deployments
+
+- 🔄**[Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)** 
+- 📊**[Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis)]** 
+- 🔧**[Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
+- 💡 SOC Playbooks Library with Real Case Studies 
+
+---
+
 ### 🛠️ Tools & Technologies
 
 <p align="center">
@@ -85,15 +94,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
-
----
-
-## 🚀 Active Builds & Deployments
-
-- 🔄**[Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)** 
-- 📊**[Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis)]** 
-- 🔧**[Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
-- 💡 SOC Playbooks Library with Real Case Studies 
 
 ---
 
