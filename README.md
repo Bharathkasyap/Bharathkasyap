@@ -1,4 +1,112 @@
 <!-- Profile Header -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyNW9pNmg5N241YXB0eXR2b25jOHFmbTNqZmRsM3dqemJmdWJkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" width="80" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Bharath Devulapalli</h1>
+<p align="center"><em>Cybersecurity Analyst | Security+ Certified | Google Certified | Intern @ Log(N) Pacific</em></p>
+
+---
+
+### 👨‍💻 About Me
+
+🔐 Cybersecurity analyst with hands-on expertise in **threat hunting**, **SIEM detections**, **KQL scripting**, and **automated vulnerability remediation**  
+⚙️ Developer of **PowerShell & BASH security hardening tools** aligned with STIG & CVE benchmarks  
+📈 Proven ability to simulate and detect real-world threats using **Microsoft Sentinel** and **MITRE ATT&CK framework**  
+🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
+
+---
+
+### 🔥 Career Highlights
+
+- 📊 **Microsoft Sentinel Engineering**: Developed custom detection rule packs for brute-force, C2, persistence tactics  
+- 🛡 **Vulnerability Management Lead (Lab Sim)**: Created a structured remediation workflow using PowerShell  
+- 🕵️‍♂️ **Threat Hunting**: Investigated anomalies in Tor browser traffic, RDP brute force attempts, and internal abuse cases  
+- 📘 **Incident Response Playbooks**: Authored step-by-step guides to reduce analyst guesswork and accelerate triage  
+
+---
+
+### 💼 Featured Projects
+
+#### ✅ Vulnerability Management
+
+- [🔐 Vulnerability Management Program (Full Cycle)](https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)  
+- [⚙️ PowerShell + BASH Remediation Scripts (STIG, CVE)](https://github.com/Bharathkasyap/programmatic-vulnerability-remediations-Bharath)
+
+#### 🚨 Threat Hunting + Detection Engineering
+
+- [🧠 Threat Hunt: Tor Browser Scenario](https://github.com/Bharathkasyap/threat-hunting-scenario-tor-Bharath/tree/main)  
+- [🔍 Brute Force Threat Detection (Sentinel)](https://docs.google.com/document/d/1pTs7Z5GbL9GhQa43Ip8C2GTPS3W67BZqoClsX-T0BRo/edit?tab=t.0)  
+- [📏 Sentinel Rule Packs (MITRE Mapped)](https://github.com/Bharathkasyap/sentinel-detection-rules-Bharath/tree/main)
+
+---
+
+### 🧩 Project Summary
+
+| Area                      | Tools / Skills Used                                   | Key Outcome |
+|---------------------------|-------------------------------------------------------|-------------|
+| Vulnerability Remediation | PowerShell, BASH, STIG, CVE, Compliance               | Hardened OS + Automated Patch Scripts |
+| Threat Detection          | Microsoft Sentinel, KQL, MDE                          | Detected Brute Force, RDP, C2 Scenarios |
+| Security Automation       | YAML Rules, Playbooks, Incident Mapping               | Enabled Low-Latency SOC Responses |
+| Blue Team Engineering     | MITRE ATT&CK, KQL Dashboards                          | Built Resilient Analyst View Layers |
+
+---
+
+### 📚 Learning & Certifications
+
+- ✅ CompTIA Security+ Certified  
+- ✅ Google Cybersecurity Professional Certificate  
+- 🔐 Preparing for CISSP  
+- 🛡 SIEM Tuning, Blue Team Automation, IR Playbooks  
+- 🧠 Regular lab practice in offensive/defensive strategy simulation
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+### 🧪 Projects Coming Soon
+
+- 🔄 [Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)  
+- 📊 Microsoft Sentinel Setup + Log Ingestion Guides  
+- 🔧 Advanced STIG Compliance Scripts  
+- 💡 SOC Playbooks Library with Real Case Studies  
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: [vbdevhex0@gmail.com](mailto:vbdevhex0@gmail.com)  
+- 💼 LinkedIn: [venkatadevu](https://www.linkedin.com/in/venkatadevu/)  
+- 💻 GitHub: [Bharathkasyap](https://github.com/Bharathkasyap)  
+
+---
+
+### 😄 Fun Fact
+
+> I once built a full threat detection pipeline for a lab setup... then forgot to whitelist my own scanner. The alert worked — **on me**.
+
+---
+
+© 2025 Bharath Devulapalli — Cybersecurity in Action.
+
+
+
+
+<!-- Profile Header -->
 
   <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyNW9pNmg5N241YXB0eXR2b25jOHFmbTNqZmRsM3dqemJmdWJkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" width="80" />
