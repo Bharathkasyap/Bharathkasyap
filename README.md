@@ -64,7 +64,7 @@
 
 - **[PowerShell Scripts for Patch Automation](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)** 
 - **[Microsoft Sentinel Setup and Device Log Ingestion (📊 SIEM and Log Analysis)]** 
-- **[STIG Implementations (PowerShell)]**
+- **[STIG Implementations (PowerShell)](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
   
 ---
 
