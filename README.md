@@ -34,6 +34,7 @@
   </tr>
 </table>
 ---
+
 ### 💼 Featured Projects
 
 #### ✅ Vulnerability Management
