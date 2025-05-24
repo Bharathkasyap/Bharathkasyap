@@ -41,7 +41,7 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Bharathkasyap/threat-hunting-scenario-tor-Bharath/tree/main)**
 - **[Sentinel Detection Rule Packs](https://github.com/Bharathkasyap/sentinel-detection-rules-Bharath/tree/main)**
-- **[Threat-Hunt-Brute-Froce-attack]**
+- **[Threat-Hunt-Brute-Froce-attack](https://docs.google.com/document/d/1pTs7Z5GbL9GhQa43Ip8C2GTPS3W67BZqoClsX-T0BRo/edit?tab=t.0)**
 
 <hr>
 <h3>Summary from above two projects:</h3>
