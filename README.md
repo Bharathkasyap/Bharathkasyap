@@ -75,9 +75,9 @@
 ## 🚀 Active Builds & Deployments
 
 - **[🔄 Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)** 
-- **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis)]** 
+- **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis)](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)** 
 - **[🔧 Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
-- **[💡 SOC Playbooks Library with Real Case Studies]** 
+- **[💡 SOC Playbooks Library with Real Case Studies](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)** 
 
 ---
 
