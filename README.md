@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 🔐 Cybersecurity analyst with hands-on expertise in **threat hunting**, **SIEM detections**, **KQL scripting**, and **automated vulnerability remediation**  
-⚙️ Developer of **PowerShell & BASH security hardening tools** aligned with STIG & CVE benchmarks  
+⚙️ Knowledge on **PowerShell & BASH security hardening tools** aligned with STIG & CVE benchmarks  
 📈 Proven ability to simulate and detect real-world threats using **Microsoft Sentinel** and **MITRE ATT&CK framework**  
 🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
 
