@@ -95,6 +95,7 @@
 - **[🧠 PASTA Threat Model Worksheet](https://github.com/Bharathkasyap/PASTA_Threat_Model_Worksheet)**
 - **[🏛️ NIST Frameworks for SOC Analysts](https://github.com/Bharathkasyap/NIST_FrameWorks/tree/main)**
 - **[🛡️📊🔟OWASP-TOP_10_2025- UnOfficial Yet](https://github.com/Bharathkasyap/OWASP-TOP_10_2025)**
+- **[📄 Full Cybersecurity Incident After Action Reports (AARs)](https://github.com/Bharathkasyap/AAR_ReportStyles)**
 
 ---
 
