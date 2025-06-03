@@ -41,7 +41,7 @@
 #### ✅ Vulnerability Management
 
 - [🔐 Vulnerability Management Program (Full Cycle)](https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)  
-- [⚙️ PowerShell + BASH Remediation Scripts (STIG, CVE)](https://github.com/Bharathkasyap/PublicCodes/tree/main/automation)
+- [🛍️ Targeted Vulnerability Assessment for E-commerce Operations](https://github.com/Bharathkasyap/A_Targeted_Vulnerability_Assessment_for_E-commerce_Operations)
 
 #### 🚨 Threat Hunting + Detection Engineering
 
