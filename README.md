@@ -87,15 +87,14 @@
 ## 🚀 Active Builds & Deployments
 
 - **[🔄 Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PatchWindowsAutomation/blob/main/README.md)** 
-- **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis]**
 - **[🔧 Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
 - **[💡 SOC Playbooks Library with Real Case Studies](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
 - **[🛡️ Incident Response For Everyone](https://github.com/Bharathkasyap/Incident_Response_For_Everyone)**
-- **[🛍️ Targeted Vulnerability Assessment for E-commerce Operations](https://github.com/Bharathkasyap/A_Targeted_Vulnerability_Assessment_for_E-commerce_Operations)**
 - **[🧠 PASTA Threat Model Worksheet](https://github.com/Bharathkasyap/PASTA_Threat_Model_Worksheet)**
 - **[🏛️ NIST Frameworks for SOC Analysts](https://github.com/Bharathkasyap/NIST_FrameWorks/tree/main)**
 - **[🛡️📊🔟OWASP-TOP_10_2025- UnOfficial Yet](https://github.com/Bharathkasyap/OWASP-TOP_10_2025)**
 - **[📄 Full Cybersecurity Incident After Action Reports (AARs)](https://github.com/Bharathkasyap/AAR_ReportStyles)**
+- **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis]**
 
 ---
 
