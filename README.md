@@ -42,6 +42,7 @@
 
 - [🔐 Vulnerability Management Program (Full Cycle)](https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)  
 - [🛍️ Targeted Vulnerability Assessment for E-commerce Operations](https://github.com/Bharathkasyap/A_Targeted_Vulnerability_Assessment_for_E-commerce_Operations)
+- [🍯SOC_and_Honeypot_in_Azure_Live_Traffic](https://github.com/Bharathkasyap/SOC_and_Honeypot_in_Azure_Live_Traffic/tree/main)
 
 #### 🚨 Threat Hunting + Detection Engineering
 
