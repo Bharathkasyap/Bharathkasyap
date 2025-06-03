@@ -47,7 +47,7 @@
 
 - [🧠 Threat Hunt: Tor Browser Scenario](https://github.com/Bharathkasyap/threat-hunting-scenario-tor-Bharath/tree/main)  
 - [🔍 Brute Force Threat Detection (Sentinel)](https://github.com/Bharathkasyap/Threat_Hunt_Brute_Froce_Attack_Bharath)
-- [Threat_Hunting_Incident_Data_Exfiltration_Employee_Simulation](https://github.com/Bharathkasyap/Threat_Hunting_Incident_Data_Exfiltration_Employee_Simulation/blob/main)
+- [🔍Threat_Hunting_Incident_Data_Exfiltration_Employee_Simulation](https://github.com/Bharathkasyap/Threat_Hunting_Incident_Data_Exfiltration_Employee_Simulation/blob/main)
 - [📏 Sentinel Rule Packs (MITRE Mapped)](https://github.com/Bharathkasyap/sentinel-detection-rules-Bharath/tree/main)
 
 ---
