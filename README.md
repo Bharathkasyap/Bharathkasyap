@@ -54,7 +54,8 @@
 
 ### 🏆 Competitions & Events
 
-- 🧠 **[CTF: The Great Admin Heist](https://github.com/Bharathkasyap/The-Great-Admin-Heist-CTF/tree/main)**  
+- 🧠 **[CTF: The Great Admin Heist](https://github.com/Bharathkasyap/The-Great-Admin-Heist-CTF/tree/main)**
+  
   Participated in a real-world scenario-based Capture The Flag (CTF) focused on privilege escalation, enumeration, and log analysis.  
   Demonstrated strong analytical skills by identifying initial access vectors, misconfigured admin settings, and exploiting hidden credentials.
   
@@ -63,6 +64,7 @@
   **Outcome:** Successfully captured all flags and documented each step with detailed reasoning and remediation suggestions.
 
 - 🕵️ **[Threat Hunt: Operation Deep Access](https://github.com/Bharathkasyap/ThreatHuntReport_Deep_Advesary/tree/main)**
+  
   Conducted a structured threat hunt simulating advanced persistent threats (APT) using Microsoft Defender for Endpoint and Sentinel.
   Identified stealthy attacker behaviors including PowerShell-based persistence, WMI event triggers, credential dumping, lateral movement, and C2 communication.
 
