@@ -62,6 +62,15 @@
   
   **Outcome:** Successfully captured all flags and documented each step with detailed reasoning and remediation suggestions.
 
+- 🕵️ **[Threat Hunt: Operation Deep Access](https://github.com/Bharathkasyap/ThreatHuntReport_Deep_Advesary/blob/main/README.md#scenario-the-unseen-intrusion)**
+  Conducted a structured threat hunt simulating advanced persistent threats (APT) using Microsoft Defender for Endpoint and Sentinel.
+  Identified stealthy attacker behaviors including PowerShell-based persistence, WMI event triggers, credential dumping, lateral movement, and C2 communication.
+
+  **Tools used:** Microsoft Sentinel, Defender for Endpoint (MDE), KQL Queries, Event Log Analysis, Azure VM.
+
+  **Outcome:** Mapped attacker activity to MITRE ATT&CK framework, generated forensic timeline, and proposed a detailed incident response plan with containment, eradication, and hardening strategies. Delivered a complete GitHub markdown      report with TTP analysis and recommendations.
+  
+
 ---
 
 ### 🧩 Project Summary
