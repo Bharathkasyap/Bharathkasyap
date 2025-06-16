@@ -62,8 +62,7 @@
   
   **Outcome:** Successfully captured all flags and documented each step with detailed reasoning and remediation suggestions.
 
-- 🕵️ **[Threat Hunt: Operation Deep Access](https://github.com/Bharathkasyap/ThreatHuntReport_Deep_Advesary/blob/main/README.md#scenario-the-unseen-intrusion)**
-  
+- 🕵️ **[Threat Hunt: Operation Deep Access](https://github.com/Bharathkasyap/ThreatHuntReport_Deep_Advesary/tree/main)**
   Conducted a structured threat hunt simulating advanced persistent threats (APT) using Microsoft Defender for Endpoint and Sentinel.
   Identified stealthy attacker behaviors including PowerShell-based persistence, WMI event triggers, credential dumping, lateral movement, and C2 communication.
 
