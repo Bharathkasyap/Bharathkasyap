@@ -110,6 +110,7 @@
 - **[🛡️Email Security Simulation Project](https://github.com/Bharathkasyap/Email_Security_Simulation_Azure/tree/main)**
 - **[🔍Simulated_USB_Data_Exfiltration_Insider_Threat](https://github.com/Bharathkasyap/Simulated_USB_Data_Exfiltration/tree/main)**
 - **[🕵️‍♂️SOC Simulations - Try Hack Me](https://github.com/Bharathkasyap/SOC_Simulations_Case_Reports/tree/main)**
+- **[📄Python Scripts for Threat Detection Scenarios](https://github.com/Bharathkasyap/Python_Scripts_Threat_Detection_Scenarios)**
 - **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis]**
 
 ---
