@@ -97,22 +97,27 @@
 
 ---
 
-## 🚀 Active Builds & Deployments
+## 🚀 Active Deployments
+
+- **[💡 SOC Playbooks Library with Real Case Studies](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
+- **[🛡️Email Security Simulation Project](https://github.com/Bharathkasyap/Email_Security_Simulation_Azure/tree/main)**
+- **[🔍Simulated_USB_Data_Exfiltration_Insider_Threat](https://github.com/Bharathkasyap/Simulated_USB_Data_Exfiltration/tree/main)**
+- **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis]**
+
+---
+
+## 🏛️ Knowledge Builds
 
 - **[🔄 Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PatchWindowsAutomation/blob/main/README.md)** 
 - **[🔧 Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
-- **[💡 SOC Playbooks Library with Real Case Studies](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
 - **[🛡️ Incident Response For Everyone](https://github.com/Bharathkasyap/Incident_Response_For_Everyone)**
 - **[🧠 PASTA Threat Model Worksheet](https://github.com/Bharathkasyap/PASTA_Threat_Model_Worksheet)**
 - **[🏛️ NIST Frameworks for SOC Analysts](https://github.com/Bharathkasyap/NIST_FrameWorks/tree/main)**
 - **[🛡️📊🔟OWASP-TOP_10_2025- UnOfficial Yet](https://github.com/Bharathkasyap/OWASP-TOP_10_2025)**
 - **[📄 Full Cybersecurity Incident After Action Reports (AARs)](https://github.com/Bharathkasyap/AAR_ReportStyles)**
-- **[🛡️Email Security Simulation Project](https://github.com/Bharathkasyap/Email_Security_Simulation_Azure/tree/main)**
-- **[🔍Simulated_USB_Data_Exfiltration_Insider_Threat](https://github.com/Bharathkasyap/Simulated_USB_Data_Exfiltration/tree/main)**
 - **[🕵️‍♂️SOC Simulations - Try Hack Me](https://github.com/Bharathkasyap/SOC_Simulations_Case_Reports/tree/main)**
 - **[📄Python Scripts for Threat Detection Scenarios](https://github.com/Bharathkasyap/Python_Scripts_Threat_Detection_Scenarios)**
-- **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis]**
-
+  
 ---
 
 ### 🛠️ Tools & Technologies
