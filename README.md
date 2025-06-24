@@ -102,7 +102,7 @@
 - **[💡 SOC Playbooks Library with Real Case Studies](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
 - **[🛡️Email Security Simulation Project](https://github.com/Bharathkasyap/Email_Security_Simulation_Azure/tree/main)**
 - **[🔍Simulated_USB_Data_Exfiltration_Insider_Threat](https://github.com/Bharathkasyap/Simulated_USB_Data_Exfiltration/tree/main)**
-- **[📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis)]*()*
+- **📊 Microsoft Sentinel Setup and Device Log Ingestion (SIEM and Log Analysis)**
 
 ---
 
