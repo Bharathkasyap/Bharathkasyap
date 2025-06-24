@@ -36,7 +36,7 @@
 
 ---
 
-### 💼 Featured Projects
+### 💼 Expertise Projects
 
 #### ✅ Vulnerability Management
 
