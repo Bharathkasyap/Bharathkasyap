@@ -112,7 +112,7 @@
 - **[🔧 Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
 - **[🛡️ Incident Response For Everyone](https://github.com/Bharathkasyap/Incident_Response_For_Everyone)**
 - **[🧠 PASTA Threat Model Worksheet](https://github.com/Bharathkasyap/PASTA_Threat_Model_Worksheet)**
-- **[🏛️ NIST Frameworks for SOC Analysts](https://github.com/Bharathkasyap/NIST_FrameWorks/tree/main)**
+- **[💼 NIST Frameworks for SOC Analysts](https://github.com/Bharathkasyap/NIST_FrameWorks/tree/main)**
 - **[🛡️📊🔟OWASP-TOP_10_2025- UnOfficial Yet](https://github.com/Bharathkasyap/OWASP-TOP_10_2025)**
 - **[📄 Full Cybersecurity Incident After Action Reports (AARs)](https://github.com/Bharathkasyap/AAR_ReportStyles)**
 - **[🕵️‍♂️SOC Simulations - Try Hack Me](https://github.com/Bharathkasyap/SOC_Simulations_Case_Reports/tree/main)**
