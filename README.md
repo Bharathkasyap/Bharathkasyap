@@ -89,7 +89,7 @@
 
 - ✅ CompTIA Security+ Certified  
 - ✅ Google Cybersecurity Professional Certificate  
-- 🔐 Preparing for CISSP  
+- 🔐 Preparing for CCNA, CISA
 - 🛡 SIEM Tuning, Blue Team Automation, IR Playbooks  
 - 🧠 Regular lab practice in offensive/defensive strategy simulation
 
