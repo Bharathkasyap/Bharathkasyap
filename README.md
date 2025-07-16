@@ -100,7 +100,7 @@
 - **[💡 SOC Playbooks Library with Real Case Studies](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
 - **[🛡️Email Security Simulation Project](https://github.com/Bharathkasyap/Email_Security_Simulation_Azure/tree/main)**
 - **[🔍Simulated_USB_Data_Exfiltration_Insider_Threat](https://github.com/Bharathkasyap/Simulated_USB_Data_Exfiltration/tree/main)**
-- **[📊 Splunk Setup and Device Log Ingestion- SIEM and Log Analysis](https://github.com/Bharathkasyap/Splunk_Dashboard)**
+- **[📊 Splunk Setup and Device Log Ingestion- Building a Dashboard](https://github.com/Bharathkasyap/Splunk_Dashboard)**
 
 ---
 
