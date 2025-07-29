@@ -115,6 +115,7 @@
 - **[📄 Full Cybersecurity Incident After Action Reports (AARs)](https://github.com/Bharathkasyap/AAR_ReportStyles)**
 - **[🕵️‍♂️SOC Simulations - Try Hack Me](https://github.com/Bharathkasyap/SOC_Simulations_Case_Reports/tree/main)**
 - **[📄Python Scripts for Threat Detection Scenarios](https://github.com/Bharathkasyap/Python_Scripts_Threat_Detection_Scenarios)**
+- **[📘 Splunk Notes](https://github.com/Bharathkasyap/Splunk_Notes)**
   
 ---
 
