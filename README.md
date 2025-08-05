@@ -138,7 +138,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [vbdevhex0@gmail.com](mailto:vbdevhex0@gmail.com)  
-- 💼 LinkedIn: [venkatadevu](https://www.linkedin.com/in/venkatadevu/)  
+- 💼 LinkedIn: [venkatadevu](https://www.linkedin.com/in/vbd91/)  
 - 💻 GitHub: [Bharathkasyap](https://github.com/Bharathkasyap)  
 
 ---
