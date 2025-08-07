@@ -116,6 +116,7 @@
 - **[🕵️‍♂️SOC Simulations - Try Hack Me](https://github.com/Bharathkasyap/SOC_Simulations_Case_Reports/tree/main)**
 - **[📄Python Scripts for Threat Detection Scenarios](https://github.com/Bharathkasyap/Python_Scripts_Threat_Detection_Scenarios)**
 - **[📘 Splunk Notes](https://github.com/Bharathkasyap/Splunk_Notes)**
+- **[📘 CCNA Notes](https://github.com/Bharathkasyap/CCNA_Notes_Bharath/tree/main)**
   
 ---
 
