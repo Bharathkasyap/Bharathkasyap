@@ -117,6 +117,7 @@
 - **[📄Python Scripts for Threat Detection Scenarios](https://github.com/Bharathkasyap/Python_Scripts_Threat_Detection_Scenarios)**
 - **[📘 Splunk Notes](https://github.com/Bharathkasyap/Splunk_Notes)**
 - **[📘 CCNA Notes](https://github.com/Bharathkasyap/CCNA_Notes_Bharath/tree/main)**
+- **[📚 CCNA Practice Sets](https://github.com/Bharathkasyap/CCNA_Practice_Questions/blob/main/README.md)**
   
 ---
 
