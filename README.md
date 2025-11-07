@@ -22,8 +22,8 @@
     * Cloud Security
     * Risk Management & Security Architecture
 
-* 🏆 Industry Certifications: **(ISC)² CC | CompTIA CySA+ | PenTest+ (in progress)**
-* 🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
+🏆 Industry Certifications: **(ISC)² CC | CompTIA CySA+ | PenTest+ (in progress)**
+🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
 
 ---
 
