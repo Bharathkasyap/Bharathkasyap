@@ -161,5 +161,5 @@
 
 ---
 
-© 2025 Bharath Devulapalli — Cybersecurity in Action.
+© 2025 Venkata Devulapalli — Cybersecurity in Action.
 
