@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4257f5&center=true&vCenter=true&width=500&height=70&duration=2000&lines=👋Hi+,+I'm+Bharath+Devulapalli+;" /></h1>
-<p align="center"><em>Cybersecurity Analyst | Security+ Certified | Splunk Core Certified Power User | Google Certified | @ Log(N) Pacific</em></p>
+<p align="center"><em>Cybersecurity Analyst | Security+ Certified | Splunk Core Certified Power User | ISC2 CC | Google Certified | @ Log(N) Pacific</em></p>
 
 ---
 
