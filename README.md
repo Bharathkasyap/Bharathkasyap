@@ -12,6 +12,7 @@
 ⚙️ Knowledge on **PowerShell & BASH security hardening tools** aligned with STIG & CVE benchmarks  
 📈 Proven ability to simulate and detect real-world threats using **Microsoft Sentinel** and **MITRE ATT&CK framework**  
 🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
+
 🎓 Master’s in Cybersecurity Candidate @ WGU
     
 
