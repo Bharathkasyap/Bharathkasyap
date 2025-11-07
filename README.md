@@ -23,13 +23,6 @@
 * 🏆 Industry Certifications: **(ISC)² CC | CompTIA CySA+ | PenTest+ (in progress)**
 * 🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
 
-### 🔥 Career Highlights
-
-* **Microsoft Sentinel Engineering:** Developed custom detection rule packs for brute-force, C2, persistence tactics
-* **Vulnerability Management Lead (Lab Sim):** Created a structured remediation workflow using PowerShell
-* **Threat Hunting:** Investigated anomalies in Tor browser traffic, RDP brute force attempts, and internal abuse cases
-* **Incident Response Playbooks:** Authored step-by-step guides to reduce analyst guesswork and accelerate triage
-
 ---
 
 ### 🔥 Career Highlights
