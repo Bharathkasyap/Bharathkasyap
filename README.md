@@ -13,17 +13,19 @@
 📈 Proven ability to simulate and detect real-world threats using **Microsoft Sentinel** and **MITRE ATT&CK framework**  
 🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
 🎓 Master’s in Cybersecurity Candidate @ WGU
+    
+
     🔐 Key Focus Areas:
+        
+        Secure Network Design
 
-    Secure Network Design
+        Security Operations (SIEM | Incident Response)
 
-    Security Operations (SIEM | Incident Response)
+        Penetration Testing & Vulnerability Assessment
 
-    Penetration Testing & Vulnerability Assessment
+        Cloud Security
 
-    Cloud Security
-
-    Risk Management & Security Architecture
+        Risk Management & Security Architecture
 
 🏆 Industry Certifications:
 (ISC)² CC | CompTIA CySA+ | PenTest+ (in progress)
