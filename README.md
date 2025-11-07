@@ -9,21 +9,26 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 Cybersecurity analyst with hands-on expertise in **threat hunting**, **SIEM detections**, **KQL scripting**, and **automated vulnerability remediation**
-- ⚙️ Knowledge on **PowerShell & BASH security hardening tools** aligned with STIG & CVE benchmarks
-- 📈 Proven ability to simulate and detect real-world threats using **Microsoft Sentinel** and **MITRE ATT&CK framework**
-- 🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
--🎓 Master’s in Cybersecurity Candidate @ **WGU**
-    
+* 🔐 Cybersecurity analyst with hands-on expertise in **threat hunting**, **SIEM detections**, **KQL scripting**, and **automated vulnerability remediation**
+* ⚙️ Knowledge on **PowerShell & BASH security hardening tools** aligned with STIG & CVE benchmarks
+* 📈 Proven ability to simulate and detect real-world threats using **Microsoft Sentinel** and **MITRE ATT&CK framework**
+* 🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
+* 🎓 Master’s in Cybersecurity Candidate @ **WGU**
     🔐 **Key Focus Areas:**
     * Secure Network Design
     * Security Operations (SIEM | Incident Response)
     * Penetration Testing & Vulnerability Assessment
     * Cloud Security
     * Risk Management & Security Architecture
+* 🏆 Industry Certifications: **(ISC)² CC | CompTIA CySA+ | PenTest+ (in progress)**
+* 🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
 
--🏆 Industry Certifications: **(ISC)² CC | CompTIA CySA+ | PenTest+ (in progress)**
--🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
+### 🔥 Career Highlights
+
+* **Microsoft Sentinel Engineering:** Developed custom detection rule packs for brute-force, C2, persistence tactics
+* **Vulnerability Management Lead (Lab Sim):** Created a structured remediation workflow using PowerShell
+* **Threat Hunting:** Investigated anomalies in Tor browser traffic, RDP brute force attempts, and internal abuse cases
+* **Incident Response Playbooks:** Authored step-by-step guides to reduce analyst guesswork and accelerate triage
 
 ---
 
