@@ -19,7 +19,7 @@
     * Penetration Testing & Vulnerability Assessment
     * Cloud Security
     * Risk Management & Security Architecture
-* 🏆 Industry Certifications: **(ISC)² CC | CompTIA CySA+ | PenTest+ (in progress)**
+* 🏆 Industry Certifications: **(ISC)² CC | CompTIA CySA+ | PenTest+ | CISM | (in progress)**
 * 🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
 
 ---
@@ -97,8 +97,9 @@
 ### 📚 Learning & Certifications
 
 - ✅ CompTIA Security+ Certified  
-- ✅ Google Cybersecurity Professional Certificate  
-- 🔐 Preparing for CCNA, CISA
+- ✅ ISC2 CC certified
+-  ✅ Google Cybersecurity Professional Certificate
+- 🔐 Preparing for CCNA, CYSA+
 - 🛡 SIEM Tuning, Blue Team Automation, IR Playbooks  
 - 🧠 Regular lab practice in offensive/defensive strategy simulation
 
