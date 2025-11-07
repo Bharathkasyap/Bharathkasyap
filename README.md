@@ -157,7 +157,7 @@
 
 ### 😄 Fun Fact
 
-> I once locked myself out of my car and instinctively thought, "There has to be a workaround… maybe brute-force?" That moment made me realize something important, whether it’s a car or a critical system, one careless slip is all it takes to trigger a denial of service. In cybersecurity and in life, access matters, and so does how you manage it.
+> Why does the blue team always bring snacks to SIEM meetings? Because with all those logs, someone's gotta serve the cookies, and analyze who stole them.
 
 ---
 
