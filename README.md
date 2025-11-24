@@ -96,6 +96,7 @@
 
 ### 📚 Learning & Certifications
 
+- ✅ CompTIA CYSA+
 - ✅ CompTIA Security+ Certified  
 - ✅ ISC2 CC certified
 - ✅ Google Cybersecurity Professional Certificate
