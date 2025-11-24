@@ -14,7 +14,7 @@
 * 🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
 * 🎓 Master’s in Cybersecurity Candidate @ **WGU**
    
-    - 🔐 **Key Focus Areas:**
+  🔐 **Key Focus Areas:**
     * Secure Network Design
     * Security Operations (SIEM | Incident Response)
     * Penetration Testing & Vulnerability Assessment
