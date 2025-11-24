@@ -19,7 +19,7 @@
     * Penetration Testing & Vulnerability Assessment
     * Cloud Security
     * Risk Management & Security Architecture
-* 🏆 Industry Certifications: ** CompTIA CySA+ | PenTest+ | CISM | CISSP | (in progress)**
+* 🏆 ** Industry Certifications:  PenTest+ | CISM | CISSP | (in progress)**
 * 🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
 
 ---
