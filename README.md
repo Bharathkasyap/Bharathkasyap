@@ -97,8 +97,8 @@
 ### 📚 Learning & Certifications
 
 - ✅ CompTIA CYSA+
-- ✅ CompTIA Security+ Certified  
-- ✅ ISC2 CC certified
+- ✅ CompTIA Security+
+- ✅ ISC2 CC 
 - ✅ Google Cybersecurity Professional Certificate
 - ✅ Splunk Certified Core Power User
 - 🛡 SIEM Tuning, Blue Team Automation, IR Playbooks  
