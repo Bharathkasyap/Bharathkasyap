@@ -33,7 +33,7 @@ An e-commerce company in Seattle runs an Azure App Service that retrieves databa
 1. You enable a managed identity on a resource (e.g., a VM).
 2. Entra ID creates a service principal in your tenant automatically. You don't manage it.
 3. When the app on the VM needs a token, it calls the **Azure Instance Metadata Service (IMDS)** at the internal IP `169.254.169.254` — not reachable from outside the VM.
-4. Azure returns a short-lived token signed by Microsoft.
+4. Azure returns a short-lived token signed by Microsoft (typical lifetime: 1 hour for Entra ID access tokens).
 5. The app presents this token to the target service (Key Vault, Storage, SQL, etc.).
 6. The target service validates the token against Entra ID and grants access — if the identity has the right RBAC role.
 
