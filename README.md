@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm Venkata Devulapalli</h1>
 
 <p align="center">
-  <em>Cybersecurity Analyst | GRC & SOC Specialist | CYSA+ | Security+ | Splunk | Microsoft Sentinel 
-    
-  | Master of Science in Cyber Security Information and Assurance from WGU</em>
+  <em>Cybersecurity Analyst | GRC & SOC Specialist | CYSA+ | Security+ | Splunk | Microsoft Sentinel | MSCSIA from WGU</em>
 </p>
 
 <p align="center">
