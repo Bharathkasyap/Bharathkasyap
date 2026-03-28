@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Venkata Devulapalli</h1>
 
 <p align="center">
-  <em>Cybersecurity Analyst | GRC & SOC Specialist | CYSA+ | Security+ | Splunk | Microsoft Sentinel | WGU Master's Candidate</em>
+  <em>Cybersecurity Analyst | GRC & SOC Specialist | CYSA+ | Security+ | Splunk | Microsoft Sentinel | Master of Science in Cyber Security Inforamtion and Assurance from WGUCandidate</em>
 </p>
 
 <p align="center">
-  <a href="mailto:vbdevhex0@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/vbd91">💼 LinkedIn</a> •
-  <a href="https://github.com/Bharathkasyap">💻 GitHub</a>
+  <a href="mailto:vbdevhex0@gmail.com">📧 vbdevhex0@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/vbd91">💼 https://www.linkedin.com/in/vbd91/</a> •
+  <a href="https://github.com/Bharathkasyap">💻 https://github.com/Bharathkasyap</a>
 </p>
 
 ---
