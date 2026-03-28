@@ -2,7 +2,8 @@
 
 <p align="center">
   <em>Cybersecurity Analyst | GRC & SOC Specialist | CYSA+ | Security+ | Splunk | Microsoft Sentinel 
-    | Master of Science in Cyber Security Information and Assurance from WGUCandidate</em>
+    
+    | Master of Science in Cyber Security Information and Assurance from WGU</em>
 </p>
 
 <p align="center">
