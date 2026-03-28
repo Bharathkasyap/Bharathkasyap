@@ -1,169 +1,137 @@
-<!-- Profile Header -->
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4257f5&center=true&vCenter=true&width=500&height=70&duration=2000&lines=👋Hi+,+I'm+Venkata+Devulapalli+;" /></h1>
-<p align="center"><em>Cybersecurity Analyst | CYSA+ | Security+ Certified | Splunk Core Certified Power User | ISC2 CC | Google Certified | @ Log(N) Pacific</em></p>
-
----
-
-### 👨‍💻 About Me
-
-* 🔐 Cybersecurity analyst with hands-on expertise in **threat hunting**, **SIEM detections**, **KQL scripting**, and **automated vulnerability remediation**
-* ⚙️ Knowledge on **PowerShell & BASH security hardening tools** aligned with STIG & CVE benchmarks
-* 📈 Proven ability to simulate and detect real-world threats using **Microsoft Sentinel** and **MITRE ATT&CK framework**
-* 🎯 Seeking roles in **SOC Operations, Threat Detection, Vulnerability Management**, or **Blue Team Automation**
-* 🎓 Master’s in Cybersecurity Candidate @ **WGU**
-    * 🔐 **Key Focus Areas:**
-    * Secure Network Design
-    * Security Operations (SIEM | Incident Response)
-    * Penetration Testing & Vulnerability Assessment
-    * Cloud Security
-    * Risk Management & Security Architecture
-* 🏆 Industry Certifications:  PenTest+ | CISM | CISSP | (in progress) 🏆
-* 🛡️ Passionate about architecting secure systems, ethical hacking, and implementing modern defense strategies in real-world scenarios.
-
----
-
-### 🔥 Career Highlights
-
-- 📊 **Microsoft Sentinel Engineering**: Developed custom detection rule packs for brute-force, C2, persistence tactics  
-- 🛡 **Vulnerability Management Lead (Lab Sim)**: Created a structured remediation workflow using PowerShell  
-- 🕵️‍♂️ **Threat Hunting**: Investigated anomalies in Tor browser traffic, RDP brute force attempts, and internal abuse cases  
-- 📘 **Incident Response Playbooks**: Authored step-by-step guides to reduce analyst guesswork and accelerate triage  
-
----
-<!-- Hacker GIFs Row -->
-<table>
-  <tr>
-    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZpaHc0aXNmMGt3dTB6d2RjaTQwczUzMzM0ZnRtc255bndueHJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9YYHiYjVx8FFbN4D3/giphy.gif" width="250"></td>
-    <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R2cmdsYmd4dGZ3NTc4azBkNnI5eGsxZTU0cW40eTloeHBoa3dkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"></td>
-    <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2cXRoajljbGJ0eDh0dXo5czA0cm51Y244NnF2bWhqM3k0bGg4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ugztq4GmrBRna3zaB/giphy.gif" width="250" height="250"></td>
-  </tr>
-</table>
-
----
-
-### 💼 Expertise Projects
-
-#### ✅ Vulnerability Management
-
-- [🔐 Vulnerability Management Program (Full Cycle)](https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)  
-- [🛍️ Targeted Vulnerability Assessment for E-commerce Operations](https://github.com/Bharathkasyap/A_Targeted_Vulnerability_Assessment_for_E-commerce_Operations)
-- [🍯SOC_and_Honeypot_in_Azure_Live_Traffic](https://github.com/Bharathkasyap/SOC_and_Honeypot_in_Azure_Live_Traffic/tree/main)
-
-#### 🚨 Threat Hunting + Detection Engineering
-
-- [🧠 Threat Hunt: Tor Browser Scenario](https://github.com/Bharathkasyap/threat-hunting-scenario-tor-Bharath/tree/main)  
-- [🔍 Brute Force Threat Detection (Sentinel)](https://github.com/Bharathkasyap/Threat_Hunt_Brute_Froce_Attack_Bharath)
-- [🔍Threat_Hunting_Incident_Data_Exfiltration_Employee_Simulation](https://github.com/Bharathkasyap/Threat_Hunting_Incident_Data_Exfiltration_Employee_Simulation/blob/main)
-- [📏 Sentinel Rule Packs (MITRE Mapped)](https://github.com/Bharathkasyap/sentinel-detection-rules-Bharath/tree/main)
-
----
-
-### 🏆 Competitions & Events
-
-- 🧠 **[CTF: The Great Admin Heist](https://github.com/Bharathkasyap/The-Great-Admin-Heist-CTF/tree/main)**
-  
-  Participated in a real-world scenario-based Capture The Flag (CTF) focused on privilege escalation, enumeration, and log analysis.  
-  Demonstrated strong analytical skills by identifying initial access vectors, misconfigured admin settings, and exploiting hidden credentials.
-  
-  **Tools used:** Browser-based reconnaissance, log forensics, Azure Sentinel, KQL Queries.
-  
-  **Outcome:** Successfully captured all flags and documented each step with detailed reasoning and remediation suggestions.
-
-- 🕵️ **[Threat Hunt: Operation Deep Access](https://github.com/Bharathkasyap/ThreatHuntReport_Deep_Advesary/tree/main)**
-  
-  Conducted a structured threat hunt simulating advanced persistent threats (APT) using Microsoft Defender for Endpoint and Sentinel.
-  Identified stealthy attacker behaviors including PowerShell-based persistence, WMI event triggers, credential dumping, lateral movement, and C2 communication.
-
-  **Tools used:** Microsoft Sentinel, Defender for Endpoint (MDE), KQL Queries, Event Log Analysis, Azure VM.
-
-  **Outcome:** Mapped attacker activity to MITRE ATT&CK framework, generated forensic timeline, and proposed a detailed incident response plan with containment, eradication, and hardening strategies. Delivered a complete GitHub markdown      report with TTP analysis and recommendations.
-  
-
----
-
-### 🧩 Project Summary
-
-| Area                      | Tools / Skills Used                                   | Key Outcome |
-|---------------------------|-------------------------------------------------------|-------------|
-| Vulnerability Remediation | PowerShell, BASH, STIG, CVE, Compliance               | Hardened OS + Automated Patch Scripts |
-| Threat Detection          | Microsoft Sentinel, KQL, MDE                          | Detected Brute Force, RDP, C2 Scenarios |
-| Security Automation       | YAML Rules, Playbooks, Incident Mapping               | Enabled Low-Latency SOC Responses |
-| Blue Team Engineering     | MITRE ATT&CK, KQL Dashboards                          | Built Resilient Analyst View Layers |
-
----
-
-### 📚 Learning & Certifications
-
-- ✅ CompTIA CYSA+
-- ✅ CompTIA Security+
-- ✅ ISC2 CC 
-- ✅ Google Cybersecurity Professional Certificate
-- ✅ Splunk Certified Core Power User
-- 🛡 SIEM Tuning, Blue Team Automation, IR Playbooks  
-- 🧠 Regular lab practice in offensive/defensive strategy simulation
-
----
-
-## 🚀 Active Deployments
-
-- **[💡 SOC Playbooks Library with Real Case Studies](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
-- **[🛡️Email Security Simulation Project](https://github.com/Bharathkasyap/Email_Security_Simulation_Azure/tree/main)**
-- **[🔍Simulated_USB_Data_Exfiltration_Insider_Threat](https://github.com/Bharathkasyap/Simulated_USB_Data_Exfiltration/tree/main)**
-- **[📊 Splunk Setup and Device Log Ingestion- Building a Dashboard](https://github.com/Bharathkasyap/Splunk_Dashboard)**
-
----
-
-## 🏛️ Knowledge Builds
-
-- **[🔄 Patch Automation via PowerShell (Labs)](https://github.com/Bharathkasyap/PatchWindowsAutomation/blob/main/README.md)** 
-- **[🔧 Advanced STIG Compliance Scripts](https://github.com/Bharathkasyap/STIG_Implementation_Remediation_Validations)**
-- **[🛡️ Incident Response For Everyone](https://github.com/Bharathkasyap/Incident_Response_For_Everyone)**
-- **[🧠 PASTA Threat Model Worksheet](https://github.com/Bharathkasyap/PASTA_Threat_Model_Worksheet)**
-- **[💼 NIST Frameworks for SOC Analysts](https://github.com/Bharathkasyap/NIST_FrameWorks/tree/main)**
-- **[🛡️📊🔟OWASP-TOP_10_2025- UnOfficial Yet](https://github.com/Bharathkasyap/OWASP-TOP_10_2025)**
-- **[📄 Full Cybersecurity Incident After Action Reports (AARs)](https://github.com/Bharathkasyap/AAR_ReportStyles)**
-- **[🕵️‍♂️SOC Simulations - Try Hack Me](https://github.com/Bharathkasyap/SOC_Simulations_Case_Reports/tree/main)**
-- **[📄Python Scripts for Threat Detection Scenarios](https://github.com/Bharathkasyap/Python_Scripts_Threat_Detection_Scenarios)**
-- **[📘 Splunk Notes](https://github.com/Bharathkasyap/Splunk_Notes)**
-- **[📘 CCNA Notes](https://github.com/Bharathkasyap/CCNA_Notes_Bharath/tree/main)**
-- **[📚 CCNA Practice Sets](https://github.com/Bharathkasyap/CCNA_Practice_Questions/blob/main/README.md)**
-  
----
-
-### 🛠️ Tools & Technologies
+<h1 align="center">👋 Hi, I'm Venkata Devulapalli</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" alt="Splunk"/>
+  <em>Cybersecurity Analyst | GRC & SOC Specialist | CYSA+ | Security+ | Splunk | Microsoft Sentinel | WGU Master's Candidate</em>
+</p>
+
+<p align="center">
+  <a href="mailto:vbdevhex0@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/vbd91">💼 LinkedIn</a> •
+  <a href="https://github.com/Bharathkasyap">💻 GitHub</a>
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🧭 Who I Am
 
-- 📧 Email: [vbdevhex0@gmail.com](mailto:vbdevhex0@gmail.com)  
-- 💼 LinkedIn: [vbd91](https://www.linkedin.com/in/vbd91/)  
-- 💻 GitHub: [Bharathkasyap](https://github.com/Bharathkasyap)  
+Cybersecurity professional with hands-on expertise in both **Governance, Risk & Compliance (GRC)** and **Security Operations (SOC)**. I build detection pipelines, implement compliance frameworks, author incident response playbooks, and automate vulnerability remediation — grounded in real-world enterprise simulations.
 
----
-
-### 😄 Fun Fact
-
-> Why does the blue team always bring snacks to SIEM meetings? Because with all those logs, someone's gotta serve the cookies, and analyze who stole them.
+Currently pursuing a **Master's in Cybersecurity at WGU**. Targeting roles in **GRC Analysis** or **SOC Operations / Threat Detection**.
 
 ---
 
-© 2025 Venkata Devulapalli — Cybersecurity in Action.
+## 🎯 Career Focus
 
+| Track | Tools & Skills |
+|-------|---------------|
+| **GRC** | NIST CSF 2.0, ISO 27001, HIPAA, Risk Registers, Gap Analysis, Policy Writing, ServiceNow GRC, FAIR |
+| **SOC** | Microsoft Sentinel, KQL, MITRE ATT&CK, Threat Hunting, Incident Response, Splunk |
+| **Automation** | PowerShell, Bash, STIG Hardening, CVE Scripts, YAML Detection Rules |
+| **Cloud Security** | Azure AZ-500, Defender for Cloud, Entra ID, Conditional Access, RBAC, PIM |
+
+---
+
+## 🏆 Certifications
+
+| Status | Certification |
+|--------|--------------|
+| ✅ | CompTIA CySA+ |
+| ✅ | CompTIA Security+ |
+| ✅ | ISC2 CC |
+| ✅ | Google Cybersecurity Professional Certificate |
+| ✅ | Splunk Certified Core Power User |
+| 🔄 In Progress | CISM • CISSP • PenTest+ • AZ-500 |
+
+---
+
+## 📋 GRC Portfolio
+
+### 🏦 [NIST CSF 2.0 — Enterprise GRC Implementation](https://github.com/Bharathkasyap/NIST-CSF-GRC-Implementation)
+**Org:** TechNova Financial Services | **Framework:** NIST CSF 2.0 | **Scope:** 12-Month Full Lifecycle
+
+Complete GRC program from project charter to continuous monitoring — 7 phases, 14 security policies, 12 IR playbooks, 106-subcategory gap analysis, and FAIR-quantified risk register.
+
+| Metric | Baseline | Final |
+|--------|----------|-------|
+| NIST CSF Maturity | 1.5 | 2.8 / 4.0 |
+| Critical + High Vulns | 106 open | 18 open |
+| Mean Time to Detect | 72 hours | 4 hours |
+| Mean Time to Respond | 96 hours | 6 hours |
+| Phishing Click Rate | 32% | 7% |
+| Patch Compliance (Critical) | 23% | 94% |
+
+*Tools: ServiceNow GRC, Archer, Sentinel, CyberArk, Okta, KnowBe4, PowerBI*
+
+---
+
+### 🏥 [GRC Mastery — Healthcare Compliance Framework](https://github.com/Bharathkasyap/GRC-Mastery-Healthcare-Compliance-Framework)
+**Org:** MediGlobal Healthcare | **Frameworks:** ISO 27001 + HIPAA
+
+10-module GRC implementation: governance structure, risk assessments, stakeholder engagement, HIPAA compliance controls, insider threat scenarios, ServiceNow GRC integration, audit readiness, and interview prep materials.
+
+---
+
+## 🔍 SOC & Detection Engineering Portfolio
+
+### 🛡️ [Microsoft Sentinel Detection Rules — MITRE Mapped](https://github.com/Bharathkasyap/sentinel-detection-rules-Bharath)
+20 KQL analytic rules in `.yaml` format mapped to MITRE ATT&CK — brute force, C2, lateral movement, credential dumping, DNS tunneling, impossible travel, and more. Clone-and-deploy ready.
+
+### 🔐 [Vulnerability Management Program — Full Cycle](https://github.com/Bharathkasyap/vulnerability-management-program-Bharath)
+End-to-end: policy drafting → stakeholder buy-in → CAB meeting → 4 automated remediation rounds with Tenable + PowerShell. Result: 80% vulnerability reduction (30 → 6 total; 100% critical resolved).
+
+### 💡 [Programmatic Vulnerability Remediations](https://github.com/Bharathkasyap/programmatic-vulnerability-remediations-Bharath)
+Field-ready PowerShell & Bash scripts organized by CVE ID with Tenable plugin IDs, audit trail comments, and STIG alignment. Built for SOC teams and vulnerability analysts.
+
+### 🛍️ [Targeted Vulnerability Assessment — E-commerce](https://github.com/Bharathkasyap/A_Targeted_Vulnerability_Assessment_for_E-commerce_Operations)
+Executive-level assessment using NIST SP 800-30: risk register, threat prioritization, RBAC/encryption recommendations, and board-ready reporting.
+
+### ☁️ [AZ-500 — Azure Security Engineer Study & Lab Project](https://github.com/Bharathkasyap/AZ-500-MasterProject)
+Structured study + hands-on labs across all 4 AZ-500 domains: Identity & Access, Secure Networking, Compute/Storage, and Security Operations. Includes scripts and domain guides.
+
+### 🍯 [SOC + Honeypot in Azure — Live Traffic](https://github.com/Bharathkasyap/SOC_and_Honeypot_in_Azure_Live_Traffic)
+Deployed a honeypot in Azure to capture real attack telemetry, then built Sentinel detection rules and dashboards around observed attacker behavior.
+
+---
+
+## 🏆 Competitions & Events
+
+**🧠 CTF: The Great Admin Heist** — Real-world CTF: privilege escalation, log forensics, KQL analysis in Azure Sentinel. All flags captured with documented remediation steps.
+
+**🕵️ Threat Hunt: Operation Deep Access** — Simulated APT hunt using Defender for Endpoint + Sentinel. Identified persistence, lateral movement, credential dumping, and C2. Full MITRE-mapped forensic timeline delivered.
+
+---
+
+## 🧩 Project Summary
+
+| Area | Tools / Skills | Key Outcome |
+|------|---------------|-------------|
+| GRC & Compliance | NIST CSF, ISO 27001, HIPAA, FAIR, ServiceNow | Enterprise compliance programs from scratch |
+| Vulnerability Management | Tenable, PowerShell, Bash, STIG, CVE | 80% vuln reduction via automated remediation |
+| Threat Detection | Microsoft Sentinel, KQL, MITRE ATT&CK | 20 production-ready detection rules |
+| Incident Response | Playbooks, SOAR, Tabletops, YAML | 12 playbooks; MTTD reduced 72h → 4h |
+| Cloud Security | Azure, Entra ID, Defender, RBAC, PIM | AZ-500 full domain lab coverage |
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Tenable](https://img.shields.io/badge/Tenable-00BCD4?style=flat&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=flat&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** [vbdevhex0@gmail.com](mailto:vbdevhex0@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/vbd91](https://www.linkedin.com/in/vbd91)
+- 💻 **GitHub:** [github.com/Bharathkasyap](https://github.com/Bharathkasyap)
+
+---
+
+<p align="center"><em>© 2026 Venkata Devulapalli — GRC & SOC Specialist | Cybersecurity in Action</em></p>
